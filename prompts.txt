@@ -1,1 +1,0 @@
-Lets create a clone of the arcade video game classic Asteroids. The left and right curser movement keys will be used to rotate the spaceship left and right. Spacebar to fire and the Alt key for thrusters and teh Ctrl key for hyperspace. Lets create a .venv python evnironment and load the library pygame to utilize for building the game. The python game file will be named astrds.py
