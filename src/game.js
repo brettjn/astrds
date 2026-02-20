@@ -301,7 +301,7 @@ export class Game {
     ctx.textAlign = 'left';
     ctx.fillText(`Score: ${this.score}`, 10, 30);
 
-    // High score (top-centre)
+    // High score (top-center)
     ctx.textAlign = 'center';
     ctx.fillText(`HI: ${this.highScore}`, CANVAS_WIDTH / 2, 30);
 
